@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Offline Reinforcement Learning
 
-- 📫 How to reach me: https://twitter.com/Shidilrzf
+- 📫 How to reach me: https://www.linkedin.com/in/shideh-rezaeifar-54426656/
 
 - ⚡ Fun fact: Hairbands make you smarter
 
